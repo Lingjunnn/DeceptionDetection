@@ -17,5 +17,6 @@ The dataset is from [this repository](https://github.com/CBU5201Datasets/Decepti
 Have both Chinese and English versions.
 
 ## What else
-Also include some classifiers I've tried. Due to the small amount of audio, it's extremely easy to get overfitting.  
-The requirement has been uploaded.
+- Include some classifiers I've tried. Due to the small amount of audio, it's extremely easy to get overfitting.  
+- The requirement has been uploaded.  
+- Also add the extracted features. You can use it directly since feature extraction is time-consuming.
